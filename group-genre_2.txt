@@ -1,0 +1,19 @@
+Acoustic: acoustic, songwriter, singer-songwriter
+Folk: bluegrass, folk, forro
+Blues: blues
+Jazz: jazz
+Classical: classical, romance, comedy
+Opera: opera
+Club: club, dance, dancehall, disco, funk, garage, happy, hardstyle, trip-hop
+Instrumental: guitar, piano, ambient, chill, sleep
+Country: country, honky-tonk, sertanejo
+Electronic: electro, synth-pop, breakbeat, drum-and-bass, dubstep, dub,electronic,hardcore,idm,trance, chicago-house, deep-house, progressive-house, house, detroit-techno, minimal-techno, techno, edm
+Hip-Hop: hip-hop
+Rock: alt-rock, hard-rock, psych-rock, rock, rock-n-roll, rockabilly, j-rock, goth, alt-rock, alternative, emo, grunge, indie, indie-pop, power-pop, psych-rock, punk, punk-rock
+Metal: black-metal, death-metal, metal, metalcore, heavy-metal, grindcore
+Pop: pop, pop-film, j-dance, j-idol, j-pop, k-pop, cantopop, mandopop
+R&B/Soul: gospel, r-n-b, soul
+Reggae: reggae, reggaeton, ska
+Latin: latin, salsa, samba, latino
+Industrial: industrial
+Not_Use: anime, children, groove, kids, show-tunes, study, party, afrobeat, british, brazil, french, german, indian, iranian, malay, mpb, new-age, pagode, sad, spanish, swedish, tango, turkish, world-music
