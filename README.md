@@ -1,4 +1,5 @@
 # วิธีการใช้งาน (Run ตามลำดับ)
+#### ก่อนเริ่มการทำงาน ให้ทำการสร้าง .env โดยอ้างอิงจาก .env.example แล้วทำการใส่ค่าที่ได้จาก [spotify api](https://developer.spotify.com/dashboard/) 
 ## 1. create_data_from_spotify 
 ##### ทำการดึง data จาก spotify โดยแนวเพลงดึงจาก genres.json ซึ้งทำการเก็บไฟล์ทั้งในรูปของ csv และ .wav
   - ไฟล์เพลง (.wav) อยู่ในโฟลเดอร์ music_data โดยมีโฟลเดอร์ย่อยเป็นแนวเพลงแต่ละแนว
